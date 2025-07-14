@@ -8,11 +8,11 @@
 
 ```json
 {
-  "language": ["Javascript", "PHP","typescript"],
+  "language": ["Javascript", "PHP","Typescript"],
   "frontend": ["VueJS", "ReactJS", "NextJS", "Tailwind", "ExpressJS"],
   "backend": ["Node", "ExpressJS", "Laravel", "GO"],
-  "database": ["mysql", "mongodb", "postgresql", "redis"],
-  "devOps": ["github-actions"],
+  "database": ["Mysql", "Mongodb", "Postgresql", "Redis"],
+  "devOps": ["Github-Actions"],
 }
 ```
 
