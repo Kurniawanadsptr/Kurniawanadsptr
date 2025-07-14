@@ -1,16 +1,32 @@
-## Hi there 👋
+## Hi there! Kurniawan
 
-<!--
-**Kurniawanadsptr/Kurniawanadsptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kurniawanadsptr/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:kurniawanadisaputra026@gmail.com)
+<br>
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```json
+{
+  "language": ["Javascript", "PHP","typescript"],
+  "frontend": ["VueJS", "ReactJS", "NextJS", "Tailwind", "ExpressJS"],
+  "backend": ["Node", "ExpressJS", "Laravel", "GO"],
+  "database": ["mysql", "mongodb", "postgresql", "redis"],
+  "devOps": ["github-actions"],
+}
+```
+
+</br>
+
+### About me:
+
+- 🔭 I’m currently working on: Web Applications
+- 🌱 I’m currently learning: Vue.js, NextJS, ExpressJS, Laravel, Codeigniter, TypeScripts, GO, CI/CD
+- 👯 I’m looking to collaborate on: Large scale web projects
+- 🤔 I’m looking for help with: System Design, Software Architechture
+- 💬 Ask me about: Frontend, Backend Development, Project Structures and Design Patterns
+- ⚡ Fun fact: Otters are cool
+
+---
+
+Credit: [Kurniawan Adi Saputra](https://github.com/kurniawanadsptr)
